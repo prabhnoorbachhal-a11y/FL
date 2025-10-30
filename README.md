@@ -13,7 +13,7 @@
 This repository accompanies the research paper:
 
 > **"Optimizing Federated Learning for Maize Leaf Disease Classification using Internet of Agricultural Things"**  
-> *Prabhnoor Bachhal et al., 2025.*
+> *Prabhnoor Bachhal *
 
 The study presents a **Federated Learning (FL)** framework integrated with **Transfer Learning** for the detection of maize leaf diseases within **IoAT (Internet of Agricultural Things)** environments.  
 The approach ensures **data privacy** while achieving accuracy comparable to centralized learning models.
@@ -34,7 +34,7 @@ All experiments in this paper were customized for maize leaf disease classificat
 ## Dataset
 
 The dataset used in this study is a maize subset of the **PlantVillage dataset**, publicly available at:  
- [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/emmarex/plantdisease)
+ [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset])
 
 - **Total images:** 4,585  
 - **Classes:** 5 (Healthy, Blight, Rust, Gray Leaf Spot, and others)  
