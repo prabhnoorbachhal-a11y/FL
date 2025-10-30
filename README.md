@@ -34,7 +34,7 @@ All experiments in this paper were customized for maize leaf disease classificat
 ## Dataset
 
 The dataset used in this study is a maize subset of the **PlantVillage dataset**, publicly available at:  
- [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset])
+ (https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset)
 
 - **Total images:** 4,585  
 - **Classes:** 5 (Healthy, Blight, Rust, Gray Leaf Spot, and others)  
